@@ -1,0 +1,12 @@
+Conversations
+Filter:<No Filter>
+                                                           |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                                           | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |	DNS SORGENTE, DNS DESTINAZIONE, SNI
+10.215.173.1:47166         <-> 52.28.38.211:443               288     85065     287     85785     575    170850     5,615912000      1498,2730	,	ec2-52-28-38-211.eu-central-1.compute.amazonaws.com.,	
+10.215.173.1:52974         <-> 76.223.92.165:443               68      9063      69      4892     137     13955    37,458939000      1462,6401	,	ac88393aca5853df7.awsglobalaccelerator.com.,	
+10.215.173.1:52970         <-> 76.223.92.165:443               59      4505      60      4252     119      8757    37,462729000      1462,6363	,	ac88393aca5853df7.awsglobalaccelerator.com.,	
+10.215.173.1:51958         <-> 13.248.212.111:443              17      4132      16      6802      33     10934  1494,031098000         9,7533	,	ac88393aca5853df7.awsglobalaccelerator.com.,	textsecure-service.whispersystems.org
+10.215.173.1:51976         <-> 13.248.212.111:443              17      5448      15      2647      32      8095  1500,288160000         3,5000	,	ac88393aca5853df7.awsglobalaccelerator.com.,	textsecure-service.whispersystems.org
+10.215.173.1:47982         <-> 142.250.180.179:443             13      3135      13      4392      26      7527  1494,792457000         9,2426	,	mil04s44-in-f19.1e100.net.,	storage.signal.org
+10.215.173.1:51966         <-> 13.248.212.111:443              10      3159       9      2369      19      5528  1498,079459000         5,7085	,	ac88393aca5853df7.awsglobalaccelerator.com.,	textsecure-service.whispersystems.org
+10.215.173.1:51968         <-> 13.248.212.111:443              10      3159       9      2368      19      5527  1498,089591000         5,6985	,	ac88393aca5853df7.awsglobalaccelerator.com.,	textsecure-service.whispersystems.org

@@ -1,0 +1,7 @@
+Conversations
+Filter:<No Filter>
+                                                           |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                                           | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |	DNS SORGENTE, DNS DESTINAZIONE, SNI
+10.215.173.1:60800         <-> 18.198.231.52:443              281     83703     280     83860     561    167563     2,413618000      1528,4723	,	ec2-18-198-231-52.eu-central-1.compute.amazonaws.com.,	discord.com
+10.215.173.1:52362         <-> 76.223.92.165:443              105     23716     103      7312     208     31028     0,798390000      1530,0874	,	ac88393aca5853df7.awsglobalaccelerator.com.,	discord.com
+10.215.173.1:52364         <-> 76.223.92.165:443               89      7949      88     24022     177     31971     0,797853000      1530,0880	,	ac88393aca5853df7.awsglobalaccelerator.com.,	discord.com

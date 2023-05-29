@@ -1,0 +1,7 @@
+Conversations
+Filter:<No Filter>
+                                                           |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                                           | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |	DNS SORGENTE, DNS DESTINAZIONE, SNI
+10.215.173.1:45328         <-> 35.158.97.186:10013         194841  32096506  149473  67667663  344314  99764169     0,000000000      1497,2326	,	ec2-35-158-97-186.eu-central-1.compute.amazonaws.com.,	
+10.215.173.1:60169         <-> 10.215.173.2:53                  1       252       1        83       2       335  1494,003591000         0,0148	,	,	
+10.215.173.1:1812          <-> 10.215.173.2:53                  1       114       1        64       2       178  1494,762458000         0,0169	,	,	
